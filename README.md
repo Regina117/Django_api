@@ -1,4 +1,4 @@
-##Веб-приложение на Django с API
+Веб-приложение на Django с API
 
 1. Описание: Создайте веб-приложение, которое взаимодействует с REST API. 
 2. Технологии: Python, Django, Django REST Framework, Docker, PostgreSQL.
