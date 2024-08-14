@@ -1,2 +1,8 @@
-# Django_api
-Django project with Api. 
+##Веб-приложение на Django с API
+
+1. Описание: Создайте веб-приложение, которое взаимодействует с REST API. 
+2. Технологии: Python, Django, Django REST Framework, Docker, PostgreSQL.
+3. Ключевые особенности:
+- Авторизация и аутентификация пользователей (с помощью JWT).
+- API для CRUD операций.
+- Развертывание приложения с использованием Docker и docker-compose.
